@@ -1,0 +1,1 @@
+可使用Regression Learner工具箱中的SVM工具，选择合适的模型后导出模型，分析回归或者预测
